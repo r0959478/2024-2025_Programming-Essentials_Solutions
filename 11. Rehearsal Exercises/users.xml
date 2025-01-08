@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+	<ROW>
+		<userID>1</userID>
+		<discordID>153480318328897536</discordID>
+		<battleTag>MystWizard</battleTag>
+	</ROW>
+	<ROW>
+		<userID>2</userID>
+		<discordID>304215517437362177</discordID>
+		<battleTag>brammetje</battleTag>
+	</ROW>
+	<ROW>
+		<userID>3</userID>
+		<discordID>328916611656450050</discordID>
+		<battleTag>Toontinus</battleTag>
+	</ROW>
+	<ROW>
+		<userID>4</userID>
+		<discordID>880460478667690014</discordID>
+		<battleTag>PVC42069</battleTag>
+	</ROW>
+	<ROW>
+		<userID>5</userID>
+		<discordID>329295875065249793</discordID>
+		<battleTag>Horcion</battleTag>
+	</ROW>
+	<ROW>
+		<userID>6</userID>
+		<discordID>177531421152247809</discordID>
+		<battleTag>Ardipithecus</battleTag>
+	</ROW>
+		<ROW>
+		<userID>7</userID>
+		<discordID>361190015302107150</discordID>
+		<battleTag>TheEconomist</battleTag>
+	</ROW>
+	<ROW>
+		<userID>8</userID>
+		<discordID>327824787474874389</discordID>
+		<battleTag>Carbxn</battleTag>
+	</ROW>
+</DATA>
