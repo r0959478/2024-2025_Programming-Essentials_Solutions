@@ -23,9 +23,8 @@ print(new_text)
 # surplus = len(text) % 3
 
 # Add last characters
-# new_text += text[i:]
-# if surplus > 0:
-#      print(new_text + text[-surplus:])
-# else:
-#      print(new_text)
+# if len(text) % 3 != 0:
+#     new_text += text[-(len(text) % 3):]
+
+# print(new_text)
 
