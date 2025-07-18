@@ -1,3 +1,15 @@
+
+# another possibility
+# tuple = (1,2,3,5,4,6,7,8)
+# print(tuple)
+# if 4 in tuple:
+#     tuple_ = (len(tuple)-1)-tuple[::-1].index(4)
+#     ans = tuple[tuple_+1:]
+#     print(ans)
+# else:
+#     print("there is not 4")
+
+
 numbers = (4, 3, 7, 5, 1, 3, 8, 4)
 print(numbers)
 
